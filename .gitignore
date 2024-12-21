@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Test/Content/Megascans/3D_Assets/Old_Scythe_tmgqcb2fa/T_Old_Scythe_tmgqcb2fa_8K_D.uasset
+Test/Content/Megascans/3D_Assets/Old_Scythe_tmgqcb2fa/T_Old_Scythe_tmgqcb2fa_8K_N.uasset
+Test/Content/Megascans/3D_Assets/Old_Scythe_tmgqcb2fa/T_OldScythe_tmgqcb2fa_8K_DpR.uasset

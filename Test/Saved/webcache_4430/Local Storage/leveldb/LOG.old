@@ -1,2 +1,3 @@
-2024/12/08-16:17:10.214 42b0 Creating DB C:/Users/hudso/OneDrive/Documents/Unreal Projects/Test/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/12/08-16:17:10.238 42b0 Reusing MANIFEST C:/Users/hudso/OneDrive/Documents/Unreal Projects/Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/19-16:05:21.415 3ac0 Reusing MANIFEST C:/Users/hudso/OneDrive/Documents/Unreal Projects/Repo_Test/Test/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/19-16:05:21.437 3ac0 Recovering log #3
+2024/12/19-16:05:21.438 3ac0 Reusing old log C:/Users/hudso/OneDrive/Documents/Unreal Projects/Repo_Test/Test/Saved/webcache_4430\Local Storage\leveldb/000003.log 
