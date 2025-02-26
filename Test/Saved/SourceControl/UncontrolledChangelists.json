@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ryan/Documents/GitHub/Repo_Test/Test/Content/Levels/AnimationMap.umap",
+				"C:/Users/Ryan/Documents/GitHub/Repo_Test/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Ryan/Documents/GitHub/Repo_Test/Test/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Ryan/Documents/GitHub/Repo_Test/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Ryan/Documents/GitHub/Repo_Test/Test/Content/8thInfinite/FX/NS_LightningFX.uasset",
 				"C:/Users/hudso/OneDrive/Documents/Unreal Projects/Repo_Test/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/hudso/OneDrive/Documents/Unreal Projects/Repo_Test/Test/Content/Levels/AnimationMap.umap",
 				"C:/Users/hudso/OneDrive/Documents/Unreal Projects/Repo_Test/Test/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
